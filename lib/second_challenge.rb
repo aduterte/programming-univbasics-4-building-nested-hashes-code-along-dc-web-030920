@@ -13,5 +13,5 @@ def second_challenge
       :hero_friends => {[]}
       }}
 
-
+  epic_tragedy
 end
